@@ -1,0 +1,6 @@
+powershell -enc
+Invoke-Expression
+certutil -decode
+wscript.shell
+CreateObject
+base64_decode
