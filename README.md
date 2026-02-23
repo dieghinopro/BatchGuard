@@ -1,4 +1,4 @@
-# 🛡 BatchGuard – Home Safe Edition
+# 🛡 BatchGuard
 
 > Educational Defensive Security Tool | Windows Batch | Signature-Based Scanner | Research & Learning Project
 
@@ -48,4 +48,5 @@ This repository is intended to showcase defensive scripting concepts in a contro
 
 FOR EDUCATIONAL AND DEFENSIVE RESEARCH PURPOSES ONLY.
 USE AT YOUR OWN RISK.
+
 THE AUTHOR ASSUMES NO LIABILITY FOR DAMAGE OR DATA LOSS.
